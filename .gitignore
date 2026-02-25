@@ -1,0 +1,9 @@
+__pycache__
+.env
+.learn
+.jpg
+data_processed/
+dataset/
+data/
+*.keras
+*.h5
